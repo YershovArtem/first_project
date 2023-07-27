@@ -4,5 +4,5 @@ let a = 'Hello git';
 
 function main() {
 	console.log('hello wordl')
-
+	return;
 }
